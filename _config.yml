@@ -24,7 +24,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Armaan Abraham's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://armaan-abraham.github.io" # replace with your GitHub username
+url: "https://armaanabraham.com"
 twitter_username: armaanabraham
 github_username: armaan-abraham
 
