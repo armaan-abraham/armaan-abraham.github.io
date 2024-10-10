@@ -57,7 +57,7 @@ LLM). I hope to demonstrate this approach's advantage by training an agent on
 some objective that is abstract or relies on implicit human understanding, for
 which traditional RL is ill-suited.
 
-#### **Reduced-rank regression for tensors with an unaligned dimension**
+#### **Unaligned Low-rank Tensor Regression with Attention (ULTRA)**
 
 - I invented and implemented this method as a way to automatically construct
 mechanistic explanations of arbitrary sample metadata (e.g. patient disease
