@@ -77,7 +77,7 @@ which is the structure of scRNA-seq data.
 researchers ask in scRNA, of the form "which genetic programs in which subsets
 of cells are responsible for this phenotype".
 - This is a work in progress. For the math and preliminary results, see [my
-slides](/assets/Armaan_unaligned_tensor_regression_presentation.pptx).
+slides](/assets/mm-presentation.key).
 
 #### **RL-based generation of peptide sequences conditioned on fuzzy structural constraints**
 ([github](https://github.com/armaan-abraham/Qres))
