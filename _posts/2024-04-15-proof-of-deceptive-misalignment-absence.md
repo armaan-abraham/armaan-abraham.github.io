@@ -4,7 +4,9 @@ title: "Proving the absence of deceptive misalignment"
 date: 2024-04-15 12:00:00 -0500
 ---
 
-*The following is taken from an answer I gave to a question about designing a model that avoids deceptive alignment. I attempted to take it a step further and prove that deceptive alignment is impossible in my approach*
+*This is an answer I gave to an interview question about
+designing a model that avoids deceptive alignment. I attempted to take it a
+step further and prove that deceptive alignment is impossible in my approach*
 
 #### Question
 

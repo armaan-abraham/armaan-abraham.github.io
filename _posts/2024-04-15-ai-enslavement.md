@@ -5,7 +5,7 @@ date: 2024-04-15 12:00:00 -0500
 categories: [alignment, AGI, philosophy, morality]
 ---
 
-if the AI's desires are to help us, then doing so would be moral for itself.
+If the AI's desires are to help us, then doing so would be moral for itself.
 
 If we are building another agent, would we prefer to: 
 1. design the agent with our morals 
