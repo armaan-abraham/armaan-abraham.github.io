@@ -2,6 +2,7 @@
 layout: post
 title: "Proving the absence of deceptive misalignment"
 date: 2024-04-15 12:00:00 -0500
+excerpt: "An answer I gave to an interview question about designing a model that avoids deceptive alignment."
 ---
 
 *This is an answer I gave to an interview question about

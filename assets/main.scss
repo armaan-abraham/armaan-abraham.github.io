@@ -58,3 +58,17 @@ h1, h2, h3 {
         }
     }
 }
+
+.post-list {
+    li {
+        margin-bottom: 20px;
+    }
+    .post-excerpt {
+        font-style: italic;
+        font-size: $small-font-size;
+    }
+}
+
+.font-small {
+    font-size: $small-font-size;
+}

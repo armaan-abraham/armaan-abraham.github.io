@@ -3,6 +3,7 @@ layout: post
 title: "Considerations for building AGI - from a newbie to the field"
 date: 2023-02-13 12:00:00 -0500
 categories: [agi, alignment]
+excerpt: "This was written in 2023 when I had just started gaining exposure to ideas around AGI and alignment. I wrote this as part of an assignment for an engineering ethics class."
 ---
 
 *This was written in 2023 when I had just started gaining exposure to ideas around AGI and alignment. I wrote this as part of an assignment for an engineering ethics class.*

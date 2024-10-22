@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "The answer to the morality of AI enslavement is that there is no such thing as absolute morality"
+title: "Absolute morality and AI enslavement"
 date: 2024-04-15 12:00:00 -0500
 categories: [alignment, AGI, philosophy, morality]
+excerpt: "Are us humans satisfied with another agent successfully achieving its goals (assuming they don't interfere with us) if those goals are not human?"
 ---
 
 If the AI's desires are to help us, then doing so would be moral for itself.
@@ -20,4 +21,4 @@ I think this question depends on the nature of human altruistic desire. Is our a
 Consider the question this way:
 Assume two agents are not engineered by yourself or by any human. They both originated in some evolutionary process. Agent (a) possesses all human values (including selfishness, status-seeking) but is not human. Agent (b) only possesses an altruistic desire for humans, and would not be bothered by humans treating it like a slave, so long as the humans are happy. Now assume that both agents, over the course of their lifetimes, **achieve their goals to the same extent** (this is vague, but assume it means both in a relative and absolute sense) and they are equally happy. Which agent would you prefer to exist?
 
-I would prefer agent (b) to agent (a), because I their happinesses are equal (and I weight these happinesses equally), but (b), we can expect, has the added benefit of leading to a greater total human happiness.
+I would prefer agent (b) to agent (a), because their happinesses are equal (and I weight these happinesses equally), but (b), we can expect, has the added benefit of leading to a greater total human happiness.
