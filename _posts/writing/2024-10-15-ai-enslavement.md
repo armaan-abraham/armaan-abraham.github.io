@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Absolute morality and AI enslavement"
-date: 2024-04-15 12:00:00 -0500
+date: 2024-10-15 12:00:00 -0500
 categories: [alignment, AGI, philosophy, morality]
 excerpt: "Are us humans satisfied with another agent successfully achieving its goals (assuming they don't interfere with us) if those goals are not human?"
 ---
