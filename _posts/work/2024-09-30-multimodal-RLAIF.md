@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Reinforcement learning of abstract, multimodal tasks from AI feedback"
+title: "Reinforcement learning of human-interpretable, multimodal tasks from AI feedback"
 date: 2024-09-30 12:00:00 -0500
 excerpt: "Using a text+image LLM to train agents to perform
-abstract, arbitrary tasks that can be specified with human-interpretable text
+arbitrary tasks that can be specified with human-interpretable text
 and images."
 github: "https://github.com/armaan-abraham/intention-learning"
 importance: 5
