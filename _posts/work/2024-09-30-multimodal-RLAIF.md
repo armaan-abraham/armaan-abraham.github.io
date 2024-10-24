@@ -10,8 +10,12 @@ importance: 5
 ---
 
 <div style="float: right; margin-left: 20px; max-width: 300px">  
-<img src="/assets/images/terminal_model.png" alt="Reward model visualization">
-<figcaption style="text-align: center; font-style: italic;">LLM-derived reward model predictions for the pendulum control task</figcaption>
+  <img src="/assets/images/terminal_model.png" alt="Reward model visualization">
+  <figcaption style="text-align: center; font-style: italic;">LLM-derived reward model predictions for the pendulum control task</figcaption>
+</div>
+<div style="float: right; margin-left: 20px; max-width: 300px; clear: right;">  
+  <img src="/assets/images/episode_3.gif" alt="Model performance">
+  <figcaption style="text-align: center; font-style: italic;">Learned policy from above reward model</figcaption>
 </div>
 
 [Github](https://github.com/armaan-abraham/intention-learning)
