@@ -6,6 +6,8 @@ categories: [agi, alignment]
 excerpt: "What happens when gradient descent (an optimizer) produces a model that is itself an optimizer (i.e. a mesa-optimizer)? How can we ensure alignment between the base optimizer objective and the mesa-optimizer objective?"
 ---
 
+*For some context about the problem of inner misalignment, you may want to read [this post from Evan Hubinger and others](https://www.alignmentforum.org/s/r9tYkB2a8Fp4DN8yB/p/FkgsxrGf3QxhfLWHG).*
+
 We can design a training process that leads to a low inner misalignment likelihood by attempting to explicitly integrate the base objective into the mesa optimizer. This can still lead to outer misalignment if our base objective is poorly designed. For example, using the diamond heist problem outlined in ELK, if our base objective really is determined by the presence of a diamond on the screen, then we can't expect solving inner alignment to help us much. In some sense, we're doomed in this scenario by our extremely limited choice of sensors which does not align well with human experience (which I will address later).
 
 I claim that it is quite feasible to explicitly use the base objective in the mesa optimizer, and to do so in a way that produces capable systems relative to the implicit alternative. Although this question doesn't depend on us solving outer alignment, I will assume that we have solved outer alignment so that it's easier to judge inner alignment success, as the result will be a mesa optimizer that does what we want.
