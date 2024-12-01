@@ -44,12 +44,12 @@ we're throwing these human value representations away and creating
 vulnerabilities for task misspecification. This problem becomes more severe when
 the tasks are more complex and abstract. However, by using the raw, pretrained,
 LLM as the judge for an agent, we can leverage these human value representations
-directly. I hope that this is on the path to being able to ask an AI to "please
-do what we want" (see [coherent extrapolated
+directly. As a sidenote, as an alignment person I hope to one day just be able
+to ask the AI to "please do what we want" (see [coherent extrapolated
 volition](https://intelligence.org/files/CEV.pdf)) and to just have that work.
 
  This is a work in progress. So far, I have gotten the approach working for the
 simple pendulum control problem (but with the only reward signal coming from the
-LLM). I hope to demonstrate this approach's advantage by training an agent on
+LLM). I hope to demonstrate the advantage of this approach by training an agent on
 some objective that is abstract or relies on implicit human understanding, for
 which traditional RL is ill-suited.

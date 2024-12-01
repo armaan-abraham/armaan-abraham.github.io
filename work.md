@@ -11,7 +11,7 @@ title: Work
 serology](https://www.biorxiv.org/content/10.1101/2024.07.05.602296v1)
 *<span class="font-small">__Armaan A.
 Abraham__, Zhixin Cyrillus Tan, Priyanka Shrestha, Emily R. Bozich, Aaron S.
-Meyer (2024). Submitted to PLOS Computational Biology.
+Meyer (2024). PLOS Computational Biology (Accepted).
 </span>*
 
 [Integrative, high-resolution analysis of single cells across experimental
