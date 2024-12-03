@@ -19,9 +19,9 @@ difficult; much more. We have very little idea how deep learning works.
 
 I think that AI alignment is the main challenge between us and an extremely
 positive future, and I do mean extremely! I also find these topics intrinsically
-interesting, for how much they overlap with existential and moral philosophy. I
-am applying to PhD programs to pursue alignment research, and here I lay out
-some specific objectives that I find myself gravitating towards.
+interesting, for how much they overlap with existential and moral philosophy.  I
+am just starting my research career in this area, and here I lay out some
+specific objectives that I find myself gravitating towards.
 
 _Beware! All of this is extremely speculative and not well-cited._ These
 opinions are also changing fast.
