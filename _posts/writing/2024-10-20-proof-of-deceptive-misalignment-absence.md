@@ -2,12 +2,8 @@
 layout: post
 title: "Proving the absence of deceptive misalignment"
 date: 2024-10-20 12:00:00 -0500
-excerpt: "An answer I gave to an interview question about designing a model that avoids deceptive alignment."
+excerpt: "A modeling approach and a proof for why it avoids deceptive misalignment in a very limited context."
 ---
-
-*This is an answer I gave to an interview question about
-designing a model that avoids deceptive alignment. I attempted to take it a step
-further and prove that deceptive alignment is impossible in my approach*
 
 #### Question
 
@@ -16,26 +12,26 @@ that, you collect a dataset of (x, q, a) pairs where x is the output from some
 set of sensors at some time, q is some question about the world at that time,
 and a is some answer to that question, collected by humans investigating the
 question at a later time. You then want to train a machine learning model via
-some training scheme to fit that dataset.As an abstraction, we’ll think of all
+some training scheme to fit that dataset. As an abstraction, we'll think of all
 training processes as describable by a prior with the property that, when
 conditioned on the dataset, the resulting posterior describes the distribution
 of models that result from applying that training process to that dataset. Thus,
 when I ask you to describe a training process with particular properties, you
-need only specify a prior and a dataset-generating procedure—and you’re welcome
+need only specify a prior and a dataset-generating procedure—and you're welcome
 to provide any describable prior, computable or not (so a Solomonoff prior is
-fair game, for example).Now, here are some models that you might get in such a
-situation:The direct translator honestly answers questions according to its
-internal model of the world.The human imitator mimics the process used by humans
-to produce the answers in the training distribution.The deceptive model has some
+fair game, for example). Now, here are some models that you might get in such a
+situation: The direct translator honestly answers questions according to its
+internal model of the world. The human imitator mimics the process used by humans
+to produce the answers in the training distribution. The deceptive model has some
 completely separate goal—e.g. maximize paperclips—but answers questions honestly
 during training specifically because it wants to be selected by the training
-process so that it can eventually enact a treacherous turn.The ELK problem asks
+process so that it can eventually enact a treacherous turn. The ELK problem asks
 you to find a training process that preferentially selects for the direct
-translator over the human imitator (it’s also slightly different in that it only
+translator over the human imitator (it's also slightly different in that it only
 asks you to learn a question-answering head on top of an existing predictive
-model, whereas here we want to learn the whole thing end-to-end).The problem
+model, whereas here we want to learn the whole thing end-to-end). The problem
 here, however, is to find a training process that preferentially selects for the
-human imitator over the deceptive model. We’re putting aside the question of how
+human imitator over the deceptive model. We're putting aside the question of how
 to get the direct translator entirely here and instead just focusing on how to
 not get the deceptive model.
 
