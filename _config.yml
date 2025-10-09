@@ -32,7 +32,6 @@ header_pages:
 - index.md
 - work.md
 - cv.md
-- writing.md
 
 # Build settings
 theme: minima

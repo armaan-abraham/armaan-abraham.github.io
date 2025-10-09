@@ -9,5 +9,5 @@ title: Home
 
 <h1>Armaan A. Abraham</h1>
 <p>
-Welcome! I'm Armaan Abraham. I do AI alignment.
+Welcome! I'm Armaan Abraham.
 </p>
