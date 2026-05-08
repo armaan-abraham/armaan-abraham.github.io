@@ -15,16 +15,15 @@ too](https://www.alignmentforum.org/posts/tLCBJn3NcSNzi5xng/deep-sparse-autoenco
 *<span class="font-small">__Armaan A.
 Abraham__ (2025). AI Alignment Forum.</span>*
 
-[Multivalent binding model quantifies antibody species from systems
-serology](https://www.biorxiv.org/content/10.1101/2024.07.05.602296v1)
-*<span class="font-small">__Armaan A.
-Abraham__, Zhixin Cyrillus Tan, Priyanka Shrestha, Emily R. Bozich, Aaron S.
-Meyer (2024). PLOS Computational Biology (Accepted).
-</span>*
-
-[Integrative, high-resolution analysis of single cells across experimental
-conditions with
-PARAFAC2](https://www.biorxiv.org/content/10.1101/2024.07.29.605698v1)
+[Integrative, high-resolution analysis of single-cell gene expression across
+experimental conditions with
+PARAFAC2-RISE](https://www.cell.com/cell-systems/fulltext/S2405-4712(25)00127-9)
 *<span class="font-small">Andrew
 Ramirez, Brian T. Orcutt-Jahns, Sean Pascoe, __Armaan A. Abraham__, Breanna Remigio,
-Nathaniel Thomas, Aaron S. Meyer (2024). Preprint.</span>*
+Nathaniel Thomas, Aaron S. Meyer (2025). Cell Systems.</span>*
+
+[A multivalent binding model infers antibody Fc species from systems
+serology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012663)
+*<span class="font-small">__Armaan A.
+Abraham__, Zhixin Cyrillus Tan, Priyanka Shrestha, Emily R. Bozich, Aaron S.
+Meyer (2024). PLOS Computational Biology.</span>*
