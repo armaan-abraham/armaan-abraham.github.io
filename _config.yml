@@ -31,7 +31,6 @@ github_username: armaan-abraham
 header_pages:
 - index.md
 - work.md
-- cv.md
 
 # Build settings
 theme: minima
