@@ -13,13 +13,28 @@ h1, h2, h3 {
     font-family: 'Helvetica', sans-serif;
 }
 
-.profile-image {
-    height: auto;
-    justify-content: center;
-    // max-width: 500px;
-    width: 100%;
+.intro {
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: $spacing-unit;
     margin-bottom: 15px;
+}
+
+.intro-photo {
+    flex: none;
+    width: 280px;
+    max-width: 100%;
+    height: auto;
+}
+
+.intro-text {
+    // Drops below the photo once it can no longer hold a readable measure
+    flex: 1 1 320px;
+
+    p:last-child {
+        margin-bottom: 0;
+    }
 }
 
 .footer-row {
