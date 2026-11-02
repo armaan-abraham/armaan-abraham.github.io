@@ -29,9 +29,17 @@ Meyer (2024). PLOS Computational Biology.</span>*
 
 [A universal equivalence between discounted reward and binary success
 probability maximization]({% post_url work/2026-06-08-success-functions %})
-*<span class="font-small">2026</span>*
+*<span class="font-small">2026.</span>*
 
 [Deep sparse autoencoders yield interpretable features
 too](https://www.alignmentforum.org/posts/tLCBJn3NcSNzi5xng/deep-sparse-autoencoders-yield-interpretable-features-too)
 *<span class="font-small">__Armaan A.
 Abraham__ (2025). AI Alignment Forum.</span>*
+
+[Protein design with RL from AI
+feedback]({% post_url work/2024-04-20-qres %})
+*<span class="font-small">2024.</span>*
+
+[Unaligned Low-rank Tensor Regression with Attention
+(ULTRA)]({% post_url work/2024-06-17-ultra %})
+*<span class="font-small">2024.</span>*
