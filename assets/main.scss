@@ -139,3 +139,9 @@ h1, h2, h3 {
     margin-bottom: 15px;
     text-align: center;
 }
+
+/* Wide display equations scroll instead of overflowing the column */
+mjx-container[display="true"] {
+    overflow-x: auto;
+    overflow-y: hidden;
+}

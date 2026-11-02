@@ -5,15 +5,12 @@ title: Work
 
 # Work
 
+## Publications
+
 [Long-Horizon Q-Learning: Accurate Value Learning via n-Step
 Inequalities](https://arxiv.org/abs/2605.05812)
 *<span class="font-small">__Armaan A.
-Abraham__, Lucy Xiaoyang Shi, Chelsea Finn (2026). Preprint.</span>*
-
-[Deep sparse autoencoders yield interpretable features
-too](https://www.alignmentforum.org/posts/tLCBJn3NcSNzi5xng/deep-sparse-autoencoders-yield-interpretable-features-too)
-*<span class="font-small">__Armaan A.
-Abraham__ (2025). AI Alignment Forum.</span>*
+Abraham__, Lucy Xiaoyang Shi, Chelsea Finn (2026). NeurIPS.</span>*
 
 [Integrative, high-resolution analysis of single-cell gene expression across
 experimental conditions with
@@ -27,3 +24,14 @@ serology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi
 *<span class="font-small">__Armaan A.
 Abraham__, Zhixin Cyrillus Tan, Priyanka Shrestha, Emily R. Bozich, Aaron S.
 Meyer (2024). PLOS Computational Biology.</span>*
+
+## Other research
+
+[A universal equivalence between discounted reward and binary success
+probability maximization]({% post_url work/2026-06-08-success-functions %})
+*<span class="font-small">2026</span>*
+
+[Deep sparse autoencoders yield interpretable features
+too](https://www.alignmentforum.org/posts/tLCBJn3NcSNzi5xng/deep-sparse-autoencoders-yield-interpretable-features-too)
+*<span class="font-small">__Armaan A.
+Abraham__ (2025). AI Alignment Forum.</span>*
