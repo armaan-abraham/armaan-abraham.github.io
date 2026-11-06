@@ -44,7 +44,7 @@ probability of eventually reaching $$s^+$$ is a positive affine transformation
 of the value function in the original MDP, so the two problems share the same
 optimal actions.</span>*
 
-## The derivation
+## Derivation
 
 **Setup.** Consider an MDP with state space $$\mathcal{S}$$, action space
 $$\mathcal{A}$$, transition kernel $$P(s' \mid s, a)$$, bounded reward
